@@ -1,6 +1,6 @@
-# [ringcentral-chatbot-server](https://github.com/zxdong262/ringcentral-chatbot-server-python)
+# [ringcentral-chatbot-server](https://github.com/ringcentral/ringcentral-chatbot-server-python)
 
-CLI tool to run ringcentral bot powered by [ringcentral_bot_framework](https://github.com/zxdong262/ringcentral-chatbot-python).
+CLI tool to run ringcentral bot powered by [ringcentral_bot_framework](https://github.com/ringcentral/ringcentral-chatbot-python).
 
 ## Use
 

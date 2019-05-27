@@ -6,13 +6,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ringcentral_chatbot_server",
-    version='0.1.0',
+    version='0.1.1',
     author="Drake Zhao",
     author_email="drake.zhao@ringcentral.com",
     description='Cli tool to run RingCentral chatbot.',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/zxdong262/ringcentral-chatbot-server-python",
+    url="https://github.com/ringcentral/ringcentral-chatbot-server-python",
     packages=setuptools.find_packages(),
     keywords=['ringcentral', 'bot', 'server'],
     install_requires=[i.strip() for i in open('requirements.txt').readlines()],
